@@ -193,7 +193,7 @@ var FIELDS = {
 };
 
 var PARAMFIELDS = {
-    "c": "Cookie",
+    "C": "Cookie",
     "e": "Environment",
     "i": "RequestHeader",
     "n": "Note",
